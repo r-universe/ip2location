@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ip2location"]
+	path = ip2location
+	url = https://github.com/ip2location/ip2location-r
+	shallow = true
+	registered = true
