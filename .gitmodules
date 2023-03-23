@@ -8,3 +8,8 @@
 	url = https://github.com/ip2location/ip2location-r
 	shallow = true
 	registered = true
+[submodule "ip2proxy"]
+	path = ip2proxy
+	url = https://github.com/cran/ip2proxy
+	shallow = true
+	registered = true
